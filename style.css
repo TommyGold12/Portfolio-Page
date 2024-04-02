@@ -98,11 +98,10 @@
 
 /**HEADER*/
 .header {
-    width: 100%;
     display: flex;
-    height: 90vh;
     align-items: center;
     justify-content: space-between;
+    margin: 20% 0;
 }
 
 .left_header {
@@ -185,7 +184,7 @@
 /**PROJECTS*/
 .projects {
     width: 100%;
-    height: 90vh;
+    margin: 20% 0;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -328,7 +327,7 @@
 /**ABOUT ME*/
 .about_me {
     width: 100%;
-    height: 90vh;
+    margin: 20% 0;
     display: flex;
     flex-direction: column;
     justify-content: center;
