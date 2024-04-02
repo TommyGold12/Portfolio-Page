@@ -2,6 +2,7 @@
 
 //* PROJECT CATEGORY OPEN HAMBURGER MENU
 let category = document.querySelector('.projects_category')
+console.log(document.querySelector('.hamburger'))
 document.querySelector('.hamburger').addEventListener('click', e => {
     if (category.classList.contains('displayNone')) {
         category.classList.remove('displayNone');
