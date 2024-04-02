@@ -1,5 +1,3 @@
-
-
 //* PROJECT CATEGORY OPEN HAMBURGER MENU
 let category = document.querySelector('.projects_category')
 console.log(document.querySelector('.hamburger'))
@@ -203,6 +201,7 @@ const columnHeight = document.querySelector('.blur').getBoundingClientRect().hei
 const reveal = function (entries) {
     entries.forEach(function (entry) {
         if (entry.isIntersecting) {
+            console.log(entry)
             entry.target.classList.add('reveal');
         }
     })

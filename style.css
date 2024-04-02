@@ -7,10 +7,11 @@
     font-family: 'Roboto';
 }
 
+
 .container {
     margin: 0px auto;
     max-width: 1400px;
-    padding: 0 10px;
+    padding: 0 15px;
     position: relative;
 }
 
