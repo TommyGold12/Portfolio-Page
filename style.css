@@ -101,7 +101,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 20% 0;
+    margin: 40% 0;
 }
 
 .left_header {
@@ -184,7 +184,7 @@
 /**PROJECTS*/
 .projects {
     width: 100%;
-    margin: 20% 0;
+    margin: 40% 0;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -327,7 +327,7 @@
 /**ABOUT ME*/
 .about_me {
     width: 100%;
-    margin: 20% 0;
+    margin: 40% 0;
     display: flex;
     flex-direction: column;
     justify-content: center;
