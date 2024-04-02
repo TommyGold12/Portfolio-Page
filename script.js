@@ -1,6 +1,4 @@
 
-let category = document.querySelector('.projects_category');
-let style = window.getComputedStyle(category);
 
 //* PROJECT CATEGORY OPEN HAMBURGER MENU
 document.querySelector('.hamburger').addEventListener('click', e => {
