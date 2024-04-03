@@ -447,7 +447,7 @@ body {
     background-color: rgba(224, 221, 221, 0.8);
     border: 1px solid rgb(134, 30, 231);
     border-radius: 10px;
-    top: 0;
+    top: 10%;
     padding: 10px 30px;
     display: flex;
     flex-direction: column;
