@@ -15,7 +15,6 @@ body {
 .container {
     margin: 0px auto;
     max-width: 1400px;
-    padding: 0 15px;
     position: relative;
 }
 
@@ -107,6 +106,10 @@ body {
     justify-content: space-between;
     padding: calc(12vh) 0;
     overflow: hidden;
+    position: relative;
+    z-index: 1;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .left_header {
@@ -190,6 +193,8 @@ body {
 .projects {
     width: 100%;
     padding: calc(12vh) 0;
+    padding-left: 15px;
+    padding-right: 15px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -333,6 +338,8 @@ body {
 .about_me {
     width: 100%;
     padding: calc(12vh) 0;
+    padding-left: 15px;
+    padding-right: 15px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -532,4 +539,17 @@ body {
 
 .reveal {
     filter: blur(0);
+}
+
+/**BACKGROUND STYLE*/
+.row1 {
+    background: linear-gradient(0.12turn, rgb(134, 30, 231, 0.0) 60%, rgb(0, 0, 0, 0.5));
+}
+
+.row2 {
+    background: linear-gradient(0.36turn, rgb(134, 30, 231, 0.0) 60%, rgb(0, 0, 0, 0.5));
+}
+
+.row3 {
+    background: linear-gradient(0.15turn, rgb(134, 30, 231, 0.0) 60%, rgb(0, 0, 0, 0.5));
 }
