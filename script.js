@@ -55,6 +55,12 @@ document.querySelectorAll('.sendMessage').forEach(function (e) {
     })
 })
 
+
+//*CLOSE MESSAGE OVERLAY
+document.querySelector('.close img').addEventListener('click', e => {
+    overlay.classList.add('displayNone');
+})
+
 //* CLOSE MESSAGE OVERLAY
 document.querySelector('.overlay').addEventListener('click', function (e) {
     console.log(e)

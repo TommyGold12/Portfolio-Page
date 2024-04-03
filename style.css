@@ -532,6 +532,24 @@ body {
     background-color: grey;
 }
 
+.close {
+    width: 100%;
+    text-align: right;
+}
+
+.close img {
+    width: 25px;
+    cursor: pointer;
+    border-radius: 50%;
+    transition: 300ms;
+    background-color: rgb(255, 0, 0, 0.8);
+}
+
+.close img:hover {
+    background-color: rgb(0, 127, 0, 0.8);
+    transition: 300ms;
+}
+
 /**INTERSECTED*/
 .blur {
     filter: blur(10px);
