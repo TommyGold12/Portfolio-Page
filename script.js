@@ -36,7 +36,7 @@ let projects = [
     p_3: "",
     p_4: "",
     wallpaper: "img/countryGenerator.png",
-    link: "/",
+    link: "https://tommygold12.github.io/CountryGenerator/",
   },
 ];
 
