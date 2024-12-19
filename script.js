@@ -36,7 +36,7 @@ let projects = [
     p_3: "Fast and easy to use",
     p_4: "",
     wallpaper: "img/countryGenerator.png",
-    link: "https://tommygold12.github.io/CountryGenerator/",
+    link: "https://peace-of-minds-final-4qmq94eo5-tommygold12s-projects.vercel.app/",
   },
 ];
 
