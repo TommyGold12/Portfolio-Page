@@ -23,7 +23,7 @@ let projects = [
     p_3: "Full responsive design with high loading performance",
     p_4: "Project is still in progress",
     wallpaper: "img/RentAhouse.png",
-    link: "https://tommygold12.github.io/Peace-of-Minds/",
+    link: "https://peace-of-minds-final-4qmq94eo5-tommygold12s-projects.vercel.app/",
   },
   {
     id: "",
